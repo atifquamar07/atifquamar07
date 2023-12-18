@@ -1,16 +1,18 @@
-### Hi there 👋
+# Atif Quamar
 
-<!--
-**atifquamar07/atifquamar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://images.app.goo.gl/C1G4W536SJfUKRSp9" width="250"/>
 
-Here are some ideas to get you started:
+Computer Science Senior @ [IIITD](https://iiitd.ac.in/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Stats:
+
+[![My-Stats](https://github-readme-stats-stealthpy.vercel.app/api?username=atifquamar07&theme=radical&show_icons=true&layout=compact&height=30)](https://github.com/atifquamar07)
+
+[![Top Langs](https://github-readme-stats-stealthpy.vercel.app/api/top-langs/?username=atifquamar07&theme=radical&layout=compact)](https://github.com/atifquamar07)
+---
+### Reach me out:
+<p align = "center">
+  <a href = "https://www.linkedin.com/in/atif-quamar/" target = "_blank" rel = "noopener noreferrer"><img src = "https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50"/></a>
+  &nbsp; <a href = "mailto:atif20523@iiitd.ac.in" target = "_blank" rel = "noopener noreferrer"><img src = "https://img.icons8.com/plasticine/100/000000/gmail.png" width="50"/></a>
+</p>
+
