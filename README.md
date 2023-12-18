@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://images.app.goo.gl/C1G4W536SJfUKRSp9" width="250"/>
 
-Computer Science Senior @ [IIITD](https://iiitd.ac.in/)
+#### Computer Science Senior @[IIITD](https://iiitd.ac.in/)
 
 ### My Stats:
 
