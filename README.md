@@ -1,5 +1,5 @@
 # Atif Quamar
-<img src="https://jumpshare.com/s/ruTwPkb5Nv9d31mTzhAm" align="right" width="250"/>
+<img src="https://media1.tenor.com/m/8rLQaqgoU70AAAAC/kotarou-kashima-kotarou.gif" align="right" width="250"/>
 
 #### Computer Science Senior @[IIITD](https://iiitd.ac.in/)
 
