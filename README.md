@@ -1,5 +1,5 @@
 # Atif Quamar
-<img src="https://github.com/atifquamar07/meow.gif" align="right" width="250"/>
+<img src="https://jumpshare.com/s/ruTwPkb5Nv9d31mTzhAm" align="right" width="250"/>
 
 #### Computer Science Senior @[IIITD](https://iiitd.ac.in/)
 
