@@ -3,7 +3,7 @@
 
 <br>
 
-#### Computer Science Senior @[IIITD](https://iiitd.ac.in/)
+### Computer Science Senior @[IIITD](https://iiitd.ac.in/)
 
 <br>
 
