@@ -1,5 +1,4 @@
 # Atif Quamar
-<img src="https://media1.tenor.com/m/f8G3Sf79TykAAAAC/berserk.gif" align="right"  width="210" height="165"/>
 
 <br>
 
