@@ -3,7 +3,7 @@
 
 <br>
 
-### Computer Science Senior @[IIITD](https://iiitd.ac.in/)
+### Head of Technology @[Insituate](https://insituate.ai)
 
 <br>
 
