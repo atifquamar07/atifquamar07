@@ -1,6 +1,6 @@
 ## Atif Quamar 
 
-Hi there! I’m Atif, currently a Master's Student in Machine Learning at MBZUAI. I’m interested in how language models reason and how we can make AI systems safer. I’m especially curious about why models fail and how we can better understand their behavior.
+I am currently a Master’s student in Machine Learning at MBZUAI. My research spans the training and reasoning of foundation models, including pretraining and post-training dynamics, reasoning, and multi-agent systems. I am particularly interested in understanding how reasoning abilities emerge through training and designing methods that make them more reliable, robust, and aligned.
 
 
 You can check out more about me on my [webpage](https://www.atifquamar.com/).
